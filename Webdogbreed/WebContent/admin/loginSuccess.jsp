@@ -4,7 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>DogHouse</title>
+<title>Insert title here</title>
 </head>
-<body bgcolor="#FFE4C4"></body>
+<body>
+<div><a href="admin/logoff.jsp">Logoff</a> | <a href="alluser/fag.html">FAQ</a><br>Logado com sucesso!</div>
+
+</body>
 </html>
