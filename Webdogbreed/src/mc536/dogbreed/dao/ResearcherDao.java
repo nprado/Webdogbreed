@@ -153,7 +153,7 @@ public class ResearcherDao implements BaseDao<Researcher> {
 	 * @param password Researcher password.
 	 * @return Authenticated researcher ID or -1 if the researcher was not authenticated.
 	 */
-	public static int authenticate(String researcher, String password) {
+	public int authenticate(String researcher, String password) {
 		int id = -1;
 		PreparedStatement stmt = null;
 		ResultSet result = null;
