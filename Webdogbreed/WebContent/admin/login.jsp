@@ -10,7 +10,7 @@
 
 	function validateForm(theForm){
 
-		if(theForm.userid.value==""){
+		if(theForm.username.value==""){
 
 		//Please enter username
 		alert("Please enter User Name.");
