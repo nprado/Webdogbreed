@@ -6,7 +6,7 @@
 <title>DogHouse</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <script type="text/javascript">
-<script type="text/javascript">
+
 
 	function validateForm(theForm){
 
@@ -14,7 +14,7 @@
 
 		//Please enter username
 		alert("Please enter User Name.");
-		theForm.userid.focus();
+		theForm.username.focus();
 
 		return false;
 

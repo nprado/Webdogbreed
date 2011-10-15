@@ -4,10 +4,17 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>Dog House CRDU</title>
 </head>
 <body>
-<div><a href="admin/logoff.jsp">Logoff</a> | <a href="alluser/fag.html">FAQ</a><br>Logado com sucesso!</div>
-
+<!-- Esse eh o cabecalho usado em todas as paginas do CRDU  -->
+<div><a href="logoffAction.jsp">Logoff</a> | <a href="../alluser/faq.html">FAQ</a><br>Logado com sucesso!</div>
+<div>
+	<a href="researcher.jsp">Pesquisadores</a> | <a href="breed.jsp">Raças</a> | <a href="picture.jsp">Fotos</a>
+	| <a href="physical.jsp">Caracteristicas Físicas</a> | <a href="behavioral.jsp">Caracteristicas Comportamentais</a>
+	| <a href="../alluser/fag.html">Doenças</a> | <a href="../alluser/fag.html">Sintomas</a>
+	| <a href="../alluser/fag.html">Profilaxia</a>
+</div>
+<!-- fim do cabecalho usado em todas as paginas do CRDU  -->
 </body>
 </html>
